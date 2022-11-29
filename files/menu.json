@@ -1,0 +1,7 @@
+{
+  "services/certificates": {
+    "title": "Certificates",
+    "index": 20,
+    "view": "vuci-app-certificates"
+  }
+}
